@@ -1,2 +1,2 @@
-# esp32-multisensor
-ESPHome based ESP32 Multisensor
+# ESPHome based multisensor (ESP32)
+This project has been inspred by [WhoTheHeck](https://github.com/WhoTheHeck/ESP8266-Multisensor)
