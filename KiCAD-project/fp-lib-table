@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/pretty")(options "")(descr ""))
+  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/espressif/footprint")(options "")(descr ""))
+  (lib (name "esp32_multisensor")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/miscellaneous/footprint")(options "")(descr ""))
 )

@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/espressif/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32_multisensor")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/miscellaneous/Rust_Board.kicad_sym")(options "")(descr ""))
+  (lib (name "TE_Connectivity")(type "KiCad")(uri "${KIPRJMOD}/project-specific-library/miscellaneous/147873-2.kicad_sym")(options "")(descr ""))
 )
