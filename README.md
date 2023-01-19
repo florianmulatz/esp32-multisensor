@@ -1,2 +1,5 @@
-# ESPHome based multisensor (ESP32)
-This project has been inspred by [WhoTheHeck](https://github.com/WhoTheHeck/ESP8266-Multisensor)
+Project archived because there is already a active GitHub project on this topic which is promising.
+
+[GiThub Project of AIOsense](https://github.com/Schluggi/AIOsense/tree/v2.0)
+
+Cheers
